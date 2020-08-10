@@ -1,0 +1,82 @@
+
+Concordancing in Language Learning
+ 
+
+
+Collocations
+Lexicographers and linguists (although rarely those of a generative bent)
+COLLOCATION have long been interested in collocations. 
+
+A collocation is any turn of
+phrase or accepted usage where somehow the whole is perceived to have
+an existence beyond the sum of the parts. 
+
+Collocations include compounds
+(disk drive), phrasal verbs (make up), and other stock phrases
+(bacon and eggs). 
+
+They often have a specialized meaning or are idiomatic,
+but they need not be. For example, at the time of writing, a favorite expression
+of bureaucrats in Australia is international best practice. 
+
+Now
+there appears to be nothing idiomatic about this expression; it is simply
+two adjectives modifying a noun in a productive and semantically compositional
+way. But, nevertheless, the frequent use of this phrase as a
+fixed expression accompanied by certain connotations justifies regarding
+it as a collocation. Indeed, any expression that people repeat because
+they have heard others using it is a candidate for a collocation.
+v Collocations are discussed in detail in chapter 5. We see later on that
+collocations are important in areas of Statistical NLP such as machine
+translation (chapter 13) and information retrieval (chapter 15). In machine
+translation, a word may be translated differently according to the
+collocation it occurs in. An information retrieval system may want to
+index only ‘interesting’ phrases, that is, those that are collocations.
+Lexicographers are also interested in collocations both because they
+show frequent ways in which a word is used, and because they are multiword
+units which have an independent existence and probably should
+appear in a dictionary. They also have theoretical interest: to the extent
+that most of language use is people reusing phrases and constructions
+30 1 Introduction
+Frequency Word 1 Word 2
+80871 of
+58841 in
+26430 to
+21842 on
+21839 for
+18568 and
+16121 that
+15630 at
+15494 to
+13899 in
+13689 of
+13361 by
+13183 with
+12622 from
+11428 New
+10007 he
+9775 as
+9231 is
+8753 has
+8573 for
+the
+the
+the
+the
+the
+the
+the
+the
+be
+a
+a
+the
+the
+the
+York
+said
+a
+a
+been
+a
+Table 1.4 Commonest bigram collocations in the New York Times.
